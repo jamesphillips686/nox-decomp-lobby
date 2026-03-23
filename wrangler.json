@@ -4,6 +4,12 @@
 	"main": "src/index.ts",
 	"compatibility_date": "2025-10-08",
 	"upload_source_maps": true,
+	"routes": [
+      {
+        "pattern": "noxdecomp.qzz.io",
+        "custom_domain": true
+      }
+    ],
 	"migrations": [
 		{
 			"new_sqlite_classes": ["LobbyDO"],
