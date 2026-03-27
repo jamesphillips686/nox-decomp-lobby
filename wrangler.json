@@ -6,7 +6,7 @@
 	"upload_source_maps": true,
 	"routes": [
       {
-        "pattern": "noxdecomp.qzz.io",
+        "pattern": "noxdecomp2.qzz.io",
         "custom_domain": true
       }
     ],
